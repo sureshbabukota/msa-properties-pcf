@@ -1,0 +1,8 @@
+sales-order-service:
+  errorMsg:  Unable to Process the Order. Please check the customer ID, items and order Date.
+management:
+  security:
+    enabled: false
+security:
+  basic:
+    enabled: false

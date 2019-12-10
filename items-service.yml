@@ -1,0 +1,10 @@
+items-service:
+  default_id: 9999
+  default_description: Item not available
+  default_price: 25.50
+management:
+  security:
+    enabled: false
+security:
+  basic:
+    enabled: false
